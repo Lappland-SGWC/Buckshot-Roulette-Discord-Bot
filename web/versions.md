@@ -3,10 +3,11 @@ BRDB VERSIONS
 </h1>
 
 # Overview
-- [Current version](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions/054.html)
-- [v0.5.3](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions/053.html)
-- [v0.5.2](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions/052.html)
-- [v0.5.1 and below](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions/051&below.html)
+
+- [Current version](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/versions/054.html)
+- [v0.5.3](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/versions/053.html)
+- [v0.5.2](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/versions/052.html)
+- [v0.5.1 and below](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/versions/051&below.html)
 
 ## Changes (non detailed list)
 

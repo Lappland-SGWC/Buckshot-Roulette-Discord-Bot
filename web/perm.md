@@ -8,8 +8,9 @@ PERMISSIONS AND USAGE
 
 > Warning
 > Make sure the bot has the requred permissions or it will not work correctly.
-> 
+>
 
 # Overview
-- [current](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/perm/054.html)
+
+- [current](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/perm/054.html)
 - v0.5.3 and below (not recorded)

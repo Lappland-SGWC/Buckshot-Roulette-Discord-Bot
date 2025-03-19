@@ -2,142 +2,143 @@
 
 > [!IMPORTANT]
 > The main README.md might not be updated or delayed updated.
-> Use the [web repo](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/) instead.
+> Use the [web repo](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/) instead.
 >
 
 [![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
-)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
-)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
-[![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
+)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
+[![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
 
 [![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
-)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
-[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
 
 # Overview
+
 - [Informations](#brdb)
-    - [Word](#word)
-    - [Todo](#todo)
+  - [Word](#word)
+  - [Todo](#todo)
 - [how to Install](#install)
 - [How to](#how-to)
-    - [play](#play)
-    - [setup](#setup)
-        - [Boot channel setup](#boot)
-        - [Vote channel setup](#votes)
+  - [play](#play)
+  - [setup](#setup)
+    - [Boot channel setup](#boot)
+    - [Vote channel setup](#votes)
 - [Features](#features)
-    - [Game](#game)
-    - [Commands](#commands)
+  - [Game](#game)
+  - [Commands](#commands)
 - [BRDB version](#versions)
 - [Permissions and usage](#permissions)
 - [Links](#links)
 - [Credits](#credits)
 
 # [BRDB](#overview)
+
 This is the official Buckshot Roulette Discord Bot repo of Raven's bot
 
 ## [WORD](#overview)
+
 if you encounter any bugs, errors or anything else, then make sure to report it.
 
 I might need to join the server to identify the error and fix it.
 
 ## [TODO](#overview)
+
 - [ ] Dealer adrenaline action
 - [ ] change save files from user specific to user and channel specific save
 - [ ] 24/7 hosting
 
 # [INSTALL](#overview)
-1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
 
+1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
 
 2. Select the server you want to add the bot to.
 
-[![step2](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step2.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![step2](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step2.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 3. Configurate permissions as you like and click on ``Authorize``.
 
-[![step3](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step3.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![step3](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step3.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 4. Done. The bot is now on your server. Have Fun.
 
-[![step4](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step4.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![step4](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step4.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 # [HOW-TO](#overview)
-``How-to`` Informations are here. 
+
+``How-to`` Informations are here.
 
 ## [PLAY](#overview)
+
 ``How-to-play``
 
 1. go into the designated channel/thread/forum or create a new private thread.
 
 [![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)
-](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 2. type ``/buckshot_roulette player start``.
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 3. play by using the modal menu or buttons under the embed messages.
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 4. get current game info (charges, inv, loaded shells) via ``/buckshot_roulette player info``.
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 ## [SETUP](#overview)
+
 you get how-to-setup infos here.
 
 ### [Boot](#overview)
+
 How to setup the booting message channel for the bot.
 
 You get messages, when the bot goes online.
 
 1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``
 
-[![boot1](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot1.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![boot1](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot1.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 2. wait for the bot to send himself a verification message.
 
-[![boot2](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot2.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![boot2](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot2.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 3. Setup is done. You now receive booting messages from the bot, when its online.
 
-[![boo3](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot3.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boo3](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot3.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 ### [Votes](#overview)
+
 How to setup the vote message channel for the bot.
 
 you can vote for upcomming updates or changes.
 
 1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``
 
-[![vote1](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote1.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![vote1](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote1.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 2. wait for the bot to send himself a verification message.
 
-[![vote2](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote2.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![vote2](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote2.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 3. Setup is done. You now receive vote messages from the bot, when there are new votes.
 
-[![vote3](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote3.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
+[![vote3](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote3.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 # [FEATURES](#overview)
 
 ## [GAME](#overview)
+
 Player actions:
+
 | Supported since Version | Action | Supported |
 | --- | --- | --- |
 | <0.2.x | SHOOT SELF | :white_check_mark: |
@@ -153,6 +154,7 @@ Player actions:
 | <0.2.x | INVERTER | :white_check_mark: |
 
 Dealer actions:
+
 | Supported since Version | Action | Supported |
 | --- | --- | --- |
 | <0.4.x | SHOOT SELF | :white_check_mark: |
@@ -168,11 +170,12 @@ Dealer actions:
 | <0.4.x | INVERTER | :white_check_mark: |
 
 ## [COMMANDS](#overview)
+>
 > [!NOTE]
 > Admin commands are only avalable for the bot owner.
 >
 
-| Version | Command | Command Sup Group | Command Group | Result | 
+| Version | Command | Command Sup Group | Command Group | Result |
 | --- | --- | --- | --- | --- |
 | 0.1.5 | buckshot_roulette | player | start | Creates a message with a modal menu to select actions and start the game in your current channel |
 | 0.2.7 | buckshot_roulette | player | info | Get informations about your current game |
@@ -193,13 +196,14 @@ Dealer actions:
 | <0.5.1 | Basically everything else (didn't noted all changes) |
 
 # [PERMISSIONS](#overview)
+>
 > [!IMPORTANT]
 > Required permissions are subject to change
 >
 
 > [!WARNING]
 > Make sure the bot has the requred permissions or it will not work correctly.
-> 
+>
 
 | Permission | Default | Required | Usage |
 | --- | --- | --- | --- |
@@ -252,20 +256,27 @@ Dealer actions:
 | View Server Insights | :x: | :x: | :x: |
 
 # [LINKS](#overview)
+
 [Main server:](https://Discord.gg/9Nu2KNWSwn)
+
 ```
 https://Discord.gg/9Nu2KNWSwn
 ```
 
 [Bot invite link:](https://discord.com/oauth2/authorize?client_id=1228396964970889286)
+
 ```
 https://discord.com/oauth2/authorize?client_id=1228396964970889286
 ```
+
 # [CREDITS](#overview)
+
 Friend and Support during developement
+
 - Waulesi
 
 Beta 0.4.x testers
+
 - Luke
 - Lyna
 - Char Aznable
