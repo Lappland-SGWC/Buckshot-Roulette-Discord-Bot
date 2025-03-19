@@ -12,5 +12,5 @@ PERMISSIONS AND USAGE
 
 # Overview
 
-- [current](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/perm/054.html)
+- [current](./perm/054)
 - v0.5.3 and below (not recorded)

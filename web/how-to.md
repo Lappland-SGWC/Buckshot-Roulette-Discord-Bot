@@ -4,8 +4,8 @@ HOW TO
 
 # Overview
 
-- [install](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
-- [play](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/play.html)
-- [setup](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/setup.html)
-  - [Boot channel](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/boot.html)
-  - [Vote channel](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/vote.html)
+- [install](./how-to/install)
+- [play](./how-to/play)
+- [setup](./how-to/setup)
+  - [Boot channel](./how-to/boot)
+  - [Vote channel](./how-to/vote)

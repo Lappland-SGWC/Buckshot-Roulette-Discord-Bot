@@ -6,16 +6,16 @@
 >
 
 [![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
-)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+)](./)
+[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](./)
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
-)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
-[![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
+)](./ToS.md)
+[![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](./ToS.md)
 
 [![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
-)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
-[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+)](./Privacy%20Policy.md)
+[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](./Privacy%20Policy.md)
 
 # Overview
 
@@ -56,17 +56,14 @@ I might need to join the server to identify the error and fix it.
 
 1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
 
-2. Select the server you want to add the bot to.
+2. Select the server you want to add the bot to.\
+[![step2](./assets/images/step2.png)](./)
 
-[![step2](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step2.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+3. Configurate permissions as you like and click on ``Authorize``.\
+[![step3](./assets/images/step3.png)](./)
 
-3. Configurate permissions as you like and click on ``Authorize``.
-
-[![step3](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step3.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
-4. Done. The bot is now on your server. Have Fun.
-
-[![step4](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step4.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+4. Done. The bot is now on your server. Have Fun.\
+[![step4](./assets/images/step4.png)](./)
 
 # [HOW-TO](#overview)
 
@@ -76,22 +73,17 @@ I might need to join the server to identify the error and fix it.
 
 ``How-to-play``
 
-1. go into the designated channel/thread/forum or create a new private thread.
+1. go into the designated channel/thread/forum or create a new private thread.\
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](./)
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)
-](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+2. type ``/buckshot_roulette player start``.\
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](./)
 
-2. type ``/buckshot_roulette player start``.
+3. play by using the modal menu or buttons under the embed messages.\
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](./)
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
-3. play by using the modal menu or buttons under the embed messages.
-
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
-4. get current game info (charges, inv, loaded shells) via ``/buckshot_roulette player info``.
-
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+4. get current game info (charges, inv, loaded shells) via ``/buckshot_roulette player info``.\
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](./)
 
 ## [SETUP](#overview)
 
@@ -103,17 +95,14 @@ How to setup the booting message channel for the bot.
 
 You get messages, when the bot goes online.
 
-1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``
+1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``\
+[![boot1](./assets/images/boot1.png)](./)
 
-[![boot1](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot1.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+2. wait for the bot to send himself a verification message.\
+[![boot2](./assets/images/boot2.png)](./)
 
-2. wait for the bot to send himself a verification message.
-
-[![boot2](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot2.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
-3. Setup is done. You now receive booting messages from the bot, when its online.
-
-[![boo3](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot3.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+3. Setup is done. You now receive booting messages from the bot, when its online.\
+[![boo3](./assets/images/boot3.png)](./)
 
 ### [Votes](#overview)
 
@@ -121,17 +110,14 @@ How to setup the vote message channel for the bot.
 
 you can vote for upcomming updates or changes.
 
-1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``
+1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``\
+[![vote1](./assets/images/vote1.png)](./)
 
-[![vote1](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote1.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+2. wait for the bot to send himself a verification message.\
+[![vote2](./assets/images/vote2.png)](./)
 
-2. wait for the bot to send himself a verification message.
-
-[![vote2](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote2.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-
-3. Setup is done. You now receive vote messages from the bot, when there are new votes.
-
-[![vote3](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote3.png)](https://github.com/Lappland-SGWC/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+3. Setup is done. You now receive vote messages from the bot, when there are new votes.\
+[![vote3](./assets/images/vote3.png)](./)
 
 # [FEATURES](#overview)
 
@@ -259,13 +245,13 @@ Dealer actions:
 
 [Main server:](https://Discord.gg/9Nu2KNWSwn)
 
-```
+```https
 https://Discord.gg/9Nu2KNWSwn
 ```
 
 [Bot invite link:](https://discord.com/oauth2/authorize?client_id=1228396964970889286)
 
-```
+```https
 https://discord.com/oauth2/authorize?client_id=1228396964970889286
 ```
 

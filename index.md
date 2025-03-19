@@ -1,8 +1,8 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
 
 [![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
-)](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/)
-[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/)
+)](./)
+[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](./)
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
 )](./ToS)
@@ -22,17 +22,17 @@
 - [Todo](#todo)
 - [Links](#links)
 - [Credits](#credits)
-- [How to](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to.html)
-  - [Install](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
-  - [Play](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/play.html)
-  - [Setup](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/setup.html)
-    - [Boot channel](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/boot.html)
-    - [Vote channel](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/vote.html)
-- [Features](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/features.html)
-  - [Actions and Responses](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/features/a&r.html)
-  - [Commands](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/features/cmd.html)
-- [BRDB versions](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/versions.html)
-- [Permissions and usage](https://Lappland-SGWC.github.io/Buckshot-Roulette-Discord-Bot/web/perm.html)
+- [How to](./web/how-to)
+  - [Install](./web/how-to/install)
+  - [Play](./web/how-to/play)
+  - [Setup](./web/how-to/setup)
+    - [Boot channel](./web/how-to/boot)
+    - [Vote channel](./web/how-to/vote)
+- [Features](./web/features)
+  - [Actions and Responses](./web/features/a&r)
+  - [Commands](./web/features/cmd)
+- [BRDB versions](./web/versions)
+- [Permissions and usage](./web/perm)
 
 # What's new
 
